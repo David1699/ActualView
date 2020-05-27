@@ -1,0 +1,337 @@
+{
+  "Peliculas" : {
+    "1917" : {
+      "Descripcion" : "Durante la Primera Guerra Mundial, dos jóvenes soldados británicos reciben una orden, aparentemente, imposible de ejecutar: en una carrera contra el reloj, deben infiltrarse en territorio enemigo para entregar un mensaje que podría salvar a miles de compañeros.",
+      "Nombre" : 1917,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2F1917.jfif?alt=media&token=7229fed2-fcc1-4871-a525-cf057cc8a211"
+    },
+    "Ant-man y la avispa" : {
+      "Descripcion" : "Scott Lang vuelve a enfundarse el traje de Ant-Man para pelear codo a codo junto con la Avispa. La misión revela a los dos superhéroes un secreto terrible y los enfrenta a su enemigo más poderoso.",
+      "Nombre" : "Ant-man y la avispa",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAnt-man_y_la_avispa.jpg?alt=media&token=6a4205c8-4f5f-4c41-873f-1131321e4bae"
+    },
+    "Avengers" : {
+      "Nombre" : "Avengers",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAvengers.jpg?alt=media&token=b3db5b3c-010e-4e86-bb52-44bac9fc4a06"
+    },
+    "Avengers: Age of ultron" : {
+      "Descripcion" : "Los Vengadores se reúnen de nuevo y juntan sus fuerzas con las de los recién llegados Quicksilver y Bruja Escarlata para luchar contra un robot maquiavélico llamado Ultrón, el cual Tony Stark creó con el fin de defender la paz, pero resultó defectuoso y ahora pretende exterminar a toda la humanidad.",
+      "Nombre" : "Avengers: Age of ultron",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAvengers_Age_Of_Ultron.png?alt=media&token=bec23add-e501-4dce-91c9-3826359d819c"
+    },
+    "Avengers: Endgame" : {
+      "Descripcion" : "Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.",
+      "Nombre" : "Avengers: Endgame",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAvengers_Endgame.jpg?alt=media&token=dcfccf61-f18a-4607-9928-ad336675d61f"
+    },
+    "Avengers: Infinity War" : {
+      "Descripcion" : "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.",
+      "Nombre" : "Avengers: Infinity War",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAvengers_Infinity_War.png?alt=media&token=ca9ca787-d55f-4cbf-b20f-38609a0b8df1"
+    },
+    "Aves de presa" : {
+      "Descripcion" : "Después de separarse de Joker, Harley Quinn y otras tres heroínas, Canario Negro, Cazadora y Renée Montoya, unen sus fuerzas para salvar a una niña del malvado rey del crimen Máscara Negra.",
+      "Nombre" : "Aves de presa",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FAves_de_presa.jpeg?alt=media&token=817209a3-db77-4816-99a9-e6af4eba5213"
+    },
+    "Capitán América: Civil War" : {
+      "Descripcion" : "Después de que otro incidente internacional, en el que se ven envueltos los Vengadores, produzca daños colaterales, la presión política obliga a poner en marcha un sistema para depurar responsabilidades.",
+      "Nombre" : "Capitán América: Civil War",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FCaptain_America_Civil_War.png?alt=media&token=49e088f1-8788-4384-8452-78ce2d72b4d6"
+    },
+    "Deadpool" : {
+      "Nombre" : "Deadpool",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FDeadpool.jpg?alt=media&token=d4fbfabc-445e-4d7c-82c3-d5446ca444f3"
+    },
+    "Doctor Strange" : {
+      "Descripcion" : "Después de sufrir un accidente, un brillante y arrogante cirujano busca rehabilitarse mediante técnicas alternativas. Sus intentos le llevan a descubrir que ha sido designado para encabezar la lucha contra una fuerza oscura y sobrenatural.",
+      "Nombre" : "Doctor strange",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FDoctor_strange.jfif?alt=media&token=56d960a3-b28c-47c3-951d-c37bb75546c3"
+    },
+    "Harry Potter y la pidra filosofal" : {
+      "Descripcion" : "l día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.",
+      "Nombre" : "Harry potter y la piedra filosofal",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FHarry_potter_1.jpg?alt=media&token=53639383-fd09-49c6-8f05-08f569f8df32"
+    },
+    "Harry potter y el caliz de fuego" : {
+      "Descripcion" : "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos.",
+      "Nombre" : "Harry potter y el caliz de fuego",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FHarry_potter_4.jpg?alt=media&token=beb83e67-a274-4494-a254-cfc8f719ce47"
+    },
+    "Harry potter y el prisionero de azkaban" : {
+      "Descripcion" : "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter.",
+      "Nombre" : "Harry potter y el prisionero de azkaban",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FHarry_potter_3.jpg?alt=media&token=76a3c433-d5d6-4c4c-8cb6-f901571c2aa5"
+    },
+    "Harry potter y la camara secreta" : {
+      "Descripcion" : "Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts.",
+      "Nombre" : "Harry potter y la camara secreta",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FHarry_potter_2.jpg?alt=media&token=419aee2d-3ed1-4b4a-91cc-0545990c0247"
+    },
+    "Iron man" : {
+      "Descripcion" : "Iron Man es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. El personaje fue cocreado por el escritor y editor Stan Lee, desarrollado por el guionista Larry Lieber y diseñado por los artistas Don Heck y Jack Kirby. ",
+      "Nombre" : "Iron man",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FIron_Man.jpg?alt=media&token=c172b607-3d29-43ea-a742-db2dc1a49228"
+    },
+    "Joker" : {
+      "Descripcion" : "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.",
+      "Nombre" : "Joker",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FJoker.jpg?alt=media&token=bf74bf82-4024-42d5-8034-3daad7b9aba3"
+    },
+    "Jumanji" : {
+      "Descripcion" : "La historia de un juego mágico que libera una estampida de peligros de la selva contra sus jugadores y un hombre que desapareció en 1969 mientras jugaba.",
+      "Nombre" : "Jumanji",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FJumanji.jpg?alt=media&token=6b9969f1-abe9-48ba-9856-d5de2d70c408"
+    },
+    "Jumanji: The Next Level" : {
+      "Descripcion" : "Las aventuras continúan en el fantástico mundo del juego Jumanji, donde nada es lo que parece. En esta ocasión, los jugadores vuelven al juego, pero sus personajes se han intercambiado entre sí, lo que ofrece un curioso plantel: los mismos héroes con distinta apariencia. Pero, ¿dónde está el resto de la gente?",
+      "Nombre" : "Jumanji: The Next Level",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FJumanji_el_siguiente_nivel.jfif?alt=media&token=8fec7824-58d1-49aa-a193-0d317a8b9069"
+    },
+    "Jumanji: Welcome to the Jungle" : {
+      "Descripcion" : "Cuatro adolescentes encuentran un viejo videojuego que los absorbe y los transporta a una selva peligrosa, donde se convierten en personajes adultos y tienen que ir superando pruebas terribles para terminar el juego y regresar al mundo real.",
+      "Nombre" : "Jumanji: Welcome to the Jungle",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FJumanji_Welcome_to_the_jungle.jpg?alt=media&token=683e0115-0f10-4e4b-b23f-3308c14494f2"
+    },
+    "Las aventuras del doctor dolittle" : {
+      "Descripcion" : "El Dr. John Dolittle vive solo detrás de los muros de su exuberante mansión en la Inglaterra del siglo XIX. Su única compañía proviene de una variedad de animales exóticos con los que habla a diario. Pero cuando la joven reina Victoria se enferma gravemente, el médico excéntrico y sus amigos peludos se embarcan en una aventura épica en una isla mítica para encontrar la cura.",
+      "Nombre" : "Las aventuras del doctor dolittle",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FLas_aventuras_del_dotor_dolittle.jpg?alt=media&token=9ee0fa3e-4744-45c6-bce8-189b20203ddc"
+    },
+    "Shazam!" : {
+      "Descripcion" : "Billy Batson, un astuto joven de 14 años, se transforma en el superhéroe Shazam, pero sus poderes son puestos a prueba cuando se enfrenta al mal.",
+      "Nombre" : "Shazam!",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FShazam.jpg?alt=media&token=7a8d1e06-005d-47c2-b9bf-e943f6dd32e9"
+    },
+    "Spider-Man: Homecoming" : {
+      "Descripcion" : "Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver, mientras sigue bajo la tutela de Tony Stark, descubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.",
+      "Nombre" : "Spider-Man: Homecoming",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FSpider_Man_Homecoming.jpg?alt=media&token=8bc52d4a-259f-41c4-bc59-e8da488beb41"
+    },
+    "Spiderman: Lejos de casa" : {
+      "Descripcion" : "Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+      "Nombre" : "Spiderman: Lejos de casa",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FSpider_Man_Far_From_Home.png?alt=media&token=7e4aaaab-d58f-43b9-87ad-d3d216ce755f"
+    },
+    "Thor" : {
+      "Descripcion" : "Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Allí, sin sus poderes, Thor deberá enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.",
+      "Nombre" : "Thor",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FThor.jpg?alt=media&token=3b967da5-0f67-4a07-9648-056a132218a9"
+    },
+    "Thor: Ragnarok" : {
+      "Descripcion" : "Thor está preso en el otro extremo del universo. Necesita regresar a tiempo para evitar que la todopoderosa Hela destruya su mundo, pero para escapar de su confinamiento y evitar el apocalipsis tendrá que vencer antes al increíble Hulk en un torneo de gladiadores.",
+      "Nombre" : "Thor Ragnarok",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FThor_Ragnarok.jpg?alt=media&token=538def59-dec4-4cc2-8ed7-b1de10150967"
+    },
+    "Wonder woman" : {
+      "Nombre" : "Wonder woman",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Peliculas%2FWonder_woman.jpg?alt=media&token=8aef68af-adcf-4b2d-85d7-0104b4fc174d"
+    }
+  },
+  "Series" : {
+    "Arrow" : {
+      "Descripcion" : "Un billonario mujeriego que se presumía había fallecido, regresa a casa luego de cinco años de quedar atrapado en una isla remota, él esconde los cambios creados por la experiencia, llevando una vida secreta en la noche, corrigiendo actos erróneos.",
+      "Nombre" : "Arrow",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Arrow.jpg?alt=media&token=22017c13-b5b7-4f4a-876d-5d2ccf5fd919"
+    },
+    "Batwoman" : {
+      "Descripcion" : "Kate Kane sigue los pasos de su primo desaparecido, Bruce Wayne, y protege las calles de Gotham City como Batwoman.",
+      "Nombre" : "Batwoman",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FBatwoman.jpg?alt=media&token=82c7dbdf-ccbc-4501-9ec2-84f1429a3881"
+    },
+    "Big bang theory" : {
+      "Descripcion" : "Leonard y Sheldon son dos cerebros privilegiados que no tienen ni la menor idea de cómo relacionarse socialmente, sobre todo cuando se trata de chicas. Sin embargo, una nueva vecina llamada Penny llega al edificio para cambiarles la vida.",
+      "Nombre" : "Big bang theory",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Big_bang_Theory.jpg?alt=media&token=525f2963-997c-4704-967c-64e9dc6f6a81"
+    },
+    "Chernobyl" : {
+      "Descripcion" : "Valientes hombres y mujeres luchan por mitigar los daños de la catástrofe nuclear de Chernóbil ocurrida el 25 de abril de 1986.",
+      "Nombre" : "Chernobyl",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FChernobyl.jpg?alt=media&token=20cd6ef0-92a2-4c85-b5ad-fdab66b74183"
+    },
+    "Chicago Fire" : {
+      "Descripcion" : "Valientes hombres y mujeres bomberos, rescatistas y paramédicos de la Unidad de Bomberos 51 se lanzan de lleno al peligro cuando todos los demás van en dirección contraria. Pero las enormes responsabilidades implican también un precio.",
+      "Nombre" : "Chigago fire",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FChicago_Fire.jpg?alt=media&token=ef7f9c33-9261-4629-a954-2e499a432d3d"
+    },
+    "Chicago PD" : {
+      "Descripcion" : "El Distrito 21 del Departamento de Policía de Chicago está compuesto de policías uniformados, que tratan con la delincuencia callejera, y la Unidad de Inteligencia, ocupada de los delitos graves como el tráfico de drogas y asesinatos de alto perfil.",
+      "Nombre" : "Chicago PD",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FChicago_PD.jpg?alt=media&token=ad5fbf0f-6ec6-48ab-b5ed-3dc611112a7a"
+    },
+    "Como conoci a vuestra madre" : {
+      "Descripcion" : "A partir de una serie de historias, Ted les cuenta a sus dos hijos cómo, años antes y con la ayuda de su incondicional amigo Barney, emprendió la búsqueda del verdadero amor.",
+      "Nombre" : "Como conoci a vuestra madre",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FComo_conoci_a_vuestra_madre.jpg?alt=media&token=4a7b20a2-8599-4402-abe3-e2af663f4336"
+    },
+    "Como defender a un asesino" : {
+      "Descripcion" : "Annalise Keating es una brillante y carismática profesora de derecho penal, que inesperadamente, tiene que aplicar todo el conocimiento práctico junto con sus estudiantes cuando se ven involucrados en un complot de asesinato en la universidad.",
+      "Nombre" : "Como defender a una asesino",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FComo_defender_a_un_asesino.jpg?alt=media&token=1a649021-e794-43e9-99b4-471a80c36dee"
+    },
+    "Cronicas Vampiricas" : {
+      "Descripcion" : "Elena, una estudiante de secundaria, se encuentra extasiada con un nuevo estudiante apuesto y misterioso, Stefan, desconociendo que él es un vampiro de varios siglos de edad que está tratando de hacer lo mejor para vivir en paz junto a los humanos.",
+      "Nombre" : "Cronicas vampiricas",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FCronicas_Vampiricas.jpg?alt=media&token=00df8484-d31d-4a46-b974-91eeac721110"
+    },
+    "Defending Jasocob" : {
+      "Nombre" : "Defending Jasocob",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FDefending_Jacob.jpg?alt=media&token=e5d122fc-06f1-4700-981d-3cdfaa7c667b"
+    },
+    "Doctor Who" : {
+      "Descripcion" : "Un extraterrestre misterioso y excéntrico conocido como el Doctor viaja a través del tiempo y el espacio en su máquina del tiempo, la TARDIS, que se asemeja a una cabina telefónica. Con sus compañeros, se enfrenta a una gran variedad de enemigos.",
+      "Nombre" : "Doctor Who",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FDoctor_Who.jpg?alt=media&token=56c75fe0-87b5-4a8f-bb01-30f319acd9bc"
+    },
+    "Elite" : {
+      "Descripcion" : "Las Encinas es el colegio más exclusivo de España, el lugar donde estudian los hijos de la élite y donde acaban de ser admitidos tres jóvenes de clase baja, procedentes de un colegio público en ruinas.",
+      "Nombre" : "Elite",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Elite.jpg?alt=media&token=46e93a8b-fa48-4c28-abf2-40f64c6cfb69"
+    },
+    "Flash" : {
+      "Descripcion" : "Nueve meses después de que el laboratorio S.T.A.R. explotara, Barry despierta del coma y descubre que tiene el poder de la súper velocidad. Con la ayuda de su nuevo equipo, Barry, denominado ahora `Flash', luchará contra el crimen en Ciudad Central.",
+      "Nombre" : "Flash",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Flash.jpg?alt=media&token=dc63cd50-545d-46fc-a15b-74f6f68258ce"
+    },
+    "Gotham" : {
+      "Descripcion" : "El detective James Gordon se desenvuelve por el mundo peligrosamente corrupto de Gotham City, mientras que un joven Bruce Wayne encuentra su camino para convertirse en un héroe.",
+      "Nombre" : "Gotham",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Gotham.jpg?alt=media&token=451f5884-574c-4641-9f87-1f253aff5a87"
+    },
+    "Happy" : {
+      "Descripcion" : "Un corrupto expolicía llamado Nick Sas cambia para siempre cuando entra en escena un implacablemente positivo e imaginario caballo de alas azules de nombre Happy.",
+      "Nombre" : "Happy!",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FHappy!.jpg?alt=media&token=a3c6d46b-f2a8-4c69-a667-1db53b1f2bed"
+    },
+    "Harley Quinn" : {
+      "Descripcion" : "La recientemente soltera Harley Quinn se pone en el camino para convertirse en la reina criminal de Gotham City.",
+      "Nombre" : "Harley Quinn",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Harley-Quinn.jpg?alt=media&token=719af1b7-5df4-4434-ae71-ed00a759eee6"
+    },
+    "Hijos de la anarquia" : {
+      "Descripcion" : "Jax Teller, un padre soltero, encuentra su lealtad a un club de motociclistas que opera ilegalmente, cuida y patrulla la ciudad de Charming, California, en busca de mantener a distancia a los traficantes de drogas.",
+      "Nombre" : "Hijos de la anarquia",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FHijos_de_la_anarquia.jpg?alt=media&token=e6269e7a-3fc6-430b-bf23-58a82b633764"
+    },
+    "House" : {
+      "Descripcion" : "El Dr. Gregory House, un singular genio de la medicina, lucha por salvar vidas y resolver misterios de casos poco comunes junto con su equipo.",
+      "Nombre" : "House",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FHouse.jpg?alt=media&token=3a90996a-abc2-403f-a535-2c4e22df98c1"
+    },
+    "Jack Ryan" : {
+      "Descripcion" : "El analista de la CIA Jack Ryan se ve involucrado por primera vez en una tarea peligrosa. El agente logra interceptar una comunicación entre terroristas y se ve obligado a entrar en su mundo despiadado.",
+      "Nombre" : "Jack Ryan",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FJack_Ryan.jpg?alt=media&token=b25c29fd-8eef-407b-9e3d-57028e0b2479"
+    },
+    "Juego de tronos" : {
+      "Descripcion" : "Esta serie, basada en los libros de George R.R. Martin, muestra la competencia entre familias nobles de siete reinos de Westeros, cuya finalidad es ganar el control sobre el Trono de Hierro.",
+      "Nombre" : "Juego de tronos",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/juego%20de%20tronos.jfif?alt=media&token=715e3ed4-b52e-4de2-a632-0688c832282f"
+    },
+    "Kingdom" : {
+      "Descripcion" : "Extraños rumores sobre un rey enfermo se apoderan de un reino mientras una misteriosa plaga comienza a extenderse. El príncipe heredero se enfrenta a nuevos enemigos para salvar a su gente.",
+      "Nombre" : "Kingdom",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FKingdom.jpg?alt=media&token=bd1e66ad-287a-4222-83ee-48a687471a17"
+    },
+    "La casa de papel" : {
+      "Descripcion" : "Una banda organizada de ladrones tiene el objet...",
+      "Nombre" : "La casa de papel",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/la%20casa%20de%20papel.jfif?alt=media&token=c4b9c274-bf6a-48c2-8704-44fcdec7fb15"
+    },
+    "Los 100" : {
+      "Descripcion" : "Un apocalipsis nuclear destruye la vida humana en la Tierra. Los únicos supervivientes son los habitantes de las estaciones espaciales internacionales. Tres generaciones después, la escasez de recursos los obliga a tomar medidas desesperadas.",
+      "Nombre" : "Los 100",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FLos_100.jpg?alt=media&token=5bad2c92-ee41-4b9e-a399-e7c954f8c42f"
+    },
+    "Los simpsons" : {
+      "Descripcion" : "En Springfield, los Simpson, una familia de clase trabajadora compuesta por Marge, Homero, Bart, Lisa y Maggie, vive aventuras satíricas.",
+      "Nombre" : "Los simpsons",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FThe_Simpson.jpg?alt=media&token=9327b034-3474-4b76-8f6a-94d6ce56da8a"
+    },
+    "Lost" : {
+      "Descripcion" : "Los sobrevivientes de un accidente aéreo luchan por subsistir en una exuberante y deshabitada isla, al mismo tiempo que afloran los secretos personales y salen a la luz extraños hallazgos.",
+      "Nombre" : "Lost",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FLost.jpg?alt=media&token=2ddc731c-e47d-46b7-a5c0-274da236a2ce"
+    },
+    "Lucifer" : {
+      "Descripcion" : "Harto del infierno, Lucifer abandona su trono en el averno y se marcha a Los Ángeles, donde empieza a trabajar como detective de homicidios.",
+      "Nombre" : "Lucifer",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/lucifer.jpg?alt=media&token=2261bba3-4b13-41ce-ad24-c67bea23ba30"
+    },
+    "Modern Family" : {
+      "Description" : "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
+      "Nombre" : "Modern family",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Modern_family.jfif?alt=media&token=4bb4e56b-38c5-4697-9816-e4d8f06c0d93"
+    },
+    "Sex Education" : {
+      "Description" : "Otis siempre tiene una respuesta respecto al sexo. Otis se une a su amiga Maeve para abrir una clínica de terapia sexual en la escuela.",
+      "Nombre" : "Sex education",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Sex_education.jfif?alt=media&token=e3b244e6-ef0c-4e82-b059-b58a290c44f2"
+    },
+    "Shameless" : {
+      "Descripcion" : "Los Gallagher son una familia disfuncional: Fra",
+      "Nombre" : "Shameless",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/act"
+    },
+    "Siren" : {
+      "Descripcion" : "Siempre han circulado leyendas de sirenas en Bristol Cove, pero la llegada de la misteriosa Ryn convierte el mito en realidad. A partir de ese momento, la batalla entre el hombre y el mar adquiere un matiz mucho más sombrío.",
+      "Nombre" : "Siren",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Siren.jfif?alt=media&token=c2c29757-d8e1-4859-9171-1883048847dd"
+    },
+    "Star Trek Discovery" : {
+      "Descripcion" : "Se produce una guerra entre la Federación y el Imperio Klingon luego de un siglo. Una oficial de la Flota Estrela está en el centro del conflicto.",
+      "Nombre" : "Star Trek Discovery",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FThe_Boys.jpg?alt=media&token=eb10b7cd-cd60-4fe9-bd12-98cac663f7f8"
+    },
+    "Star Trek Nueva generacion" : {
+      "Descripcion" : "Los seguidores del programa ya establecido obtienen una serie de ciencia ficción con 178 episodios de esta nueva generación de \" Viaje a las Estrellas.\" Continuando con la misión de explorar las galaxias más lejanas, la tripulación de la nave USS Enterprise -- ahora más grande y con más tecnología -- da la bienvenida a nuevos personajes, incluyendo al capitán Jean-Luc Picard en el mando. La acción se desarrolla en el siglo XXIV, unos 70 años después del fin de las misiones finales encabezadas por el Capitán Kirk en la serie original. Con la introducción de nuevas especies exóticas como el Ferengi y cardasianos en la rutina de la tripulación, las políticas y las relaciones interculturales entre los humanos y los extraterrestres se convierten en la fuerza conductora de la serie.",
+      "Nombre" : "Star Trek Nueva generacion",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FStar_Trek_La_nueva_generaci%C3%B3n.jpg?alt=media&token=07466540-22d3-47c6-a565-d70721b2e3b2"
+    },
+    "Supergirl" : {
+      "Descripcion" : "Con tan sólo 13 años de edad, Kara Zor-El es en...",
+      "Nombre" : "Supergirl",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Arrow.jpg?alt=media&token=22017c13-b5b7-4f4a-876d-5d2ccf5fd919"
+    },
+    "Teen wolf" : {
+      "Descripcion" : "Joven lucha por entender quien es el y en lo que se ha convertido luego de ser mordido por un lobo.",
+      "Nombre" : "Teen wolf",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Teen_wolf.jpg?alt=media&token=4de2276a-9457-41db-aea8-414e45f02f1d"
+    },
+    "The Society" : {
+      "Descripcion" : "Un grupo de adolescentes es misteriosamente transportado a una versión idéntica de su acaudalado pueblo. La única diferencia es que, en la réplica, sus padres han desaparecido, y los adolescentes tienen que crear su propia sociedad para sobrevivir.",
+      "Nombre" : "The society",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FThe_Society.jpg?alt=media&token=e14cbf91-083a-46f9-bd49-9180a73b94dc"
+    },
+    "The boys" : {
+      "Descripcion" : "Cuando los superhéroes abusan de sus poderes, un grupo de vigilantes llamados \"The Boys\" hace todo lo posible por frenarlos, independientemente de los riesgos que ello conlleva.",
+      "Nombre" : "The boys",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FThe_Boys.jpg?alt=media&token=eb10b7cd-cd60-4fe9-bd12-98cac663f7f8"
+    },
+    "The expanse" : {
+      "Descripcion" : "La búsqueda de un detective de una heredera desaparecida en el espacio coincide con la destrucción de un carguero.",
+      "Nombre" : "The expanse",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FThe_Expanse.jpg?alt=media&token=5f33ebc7-94b3-4dad-bd48-d16c0a687b27"
+    },
+    "The good doctor" : {
+      "Descripcion" : "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+      "Nombre" : "The good doctor",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/the%20good%20doctor.jfif?alt=media&token=c60a6d66-25da-4ad3-ab5f-3b931d78b400"
+    },
+    "Toy Boy" : {
+      "Descripcion" : "Hugo Beltrán es un stripper joven, guapo y despreocupado que una madrugada se despierta en un velero, tras una noche de fiesta, al lado del cadáver quemado de un hombre. Es el marido de Macarena Medina, su amante, una mujer madura e influyente.",
+      "Nombre" : "Toy Boy",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FToy_Boy.jpg?alt=media&token=d75dd529-a583-42d3-bbdf-a96acff92da4"
+    },
+    "True Detective" : {
+      "Descripcion" : "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado.",
+      "Nombre" : "True Detective",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FTrue_Detective.jpg?alt=media&token=dd449e86-a5a5-4ac3-9972-8211e4478ce1"
+    },
+    "zoey's extraordinary playlist" : {
+      "Descripcion" : "Tras un evento inusual, una inteligente programadora, comienza a oír los deseos más íntimos de las personas que la rodean a través de canciones populares y, con la ayuda de Mo, su vecino fanático de la música, comienza a conectarse con el mundo.",
+      "Nombre" : "zoey's extraordinary playlist",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/actualview-2020.appspot.com/o/Series%2FZoey's_Extraordinary_Playlist.jpg?alt=media&token=b4e833b5-8a41-449d-9da9-9d395e9762ac"
+    }
+  }
+}

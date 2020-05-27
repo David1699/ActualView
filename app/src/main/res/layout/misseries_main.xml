@@ -1,0 +1,50 @@
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layoutmisSeries"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbarmisSeries"
+            layout="@layout/toolbar" />
+
+        <include
+            android:id="@+id/tabLayoutmisSeries"
+            layout="@layout/tab_layoutmisseries"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/toolbarmisSeries"
+            />
+
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/viewPagermisSeries"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tabLayoutmisSeries" />
+        <!-- The main content view -->
+        <FrameLayout
+            android:id="@+id/content_framemisSeries"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navviewmisSeries"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/header_nav_drawer"
+        app:menu="@menu/nav_options" />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

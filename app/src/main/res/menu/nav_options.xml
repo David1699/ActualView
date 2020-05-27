@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/firstGroup"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_series"
+            android:icon="@mipmap/ic_series_foreground"
+            android:title="Series" />
+        <item
+            android:id="@+id/menu_peliculas"
+            android:icon="@mipmap/ic_peliculas_foreground"
+            android:title="Peliculas" />
+        <item
+            android:id="@+id/menu_mis_series"
+            android:icon="@mipmap/ic_series_foreground"
+            android:title="Mis Series" />
+        <item
+            android:id="@+id/menu_mis_peliculas"
+            android:icon="@mipmap/ic_peliculas_foreground"
+            android:title="Mis peliculas" />
+    </group>
+</menu>

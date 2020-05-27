@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAzulOscuro">#011A6A</color>
+    <color name="colorRosa">#DC89B7</color>
+    <color name="colorMorado">#C74893</color>
+    <color name="colorAmarillo">#F6EC76</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FFD81B60</color>
+    <color name="ic_fab_alerts_background">#FFD81B60</color>
+    <color name="ic_fab_email_background">#FFD81B60</color>
+
+    <color name="ic_fab_info_background">#FFD81B60</color>
+    <color name="ic_launcher_background">#FFD81B60</color>
+    <color name="cd">#FFD81B60</color>
+    <color name="vd">#FFD81B60</color>
+
+</resources>
